@@ -1,2 +1,2 @@
-# scGPT
-Single Cell GPT
+# esmfold
+FastAPI app to interface with ESMFold
